@@ -1,0 +1,85 @@
+Escopo do Projeto – Sistema de Gestão para Estacionamento
+
+1. Introdução
+Este projeto tem como objetivo desenvolver um sistema de gestão para um estacionamento localizado no centro de São Paulo, visando solucionar
+problemas relacionados ao controle de entrada e saída de veículos, superlotação, falta de organização das vagas, fraudes e limitações no processo
+de pagamento.
+
+2. Objetivos
+Melhorar o controle de entrada e saída de veículos.
+Reduzir a incidência de danos aos veículos causados por superlotação.
+Evitar fraudes no pagamento e ocupação de vagas.
+Modernizar o sistema de pagamento e controle de vagas.
+Oferecer uma experiência mais ágil e segura para clientes e funcionários.
+
+3. Escopo do Projeto
+
+    3.1 Estrutura e Controle de Vagas
+        3.1.1 Delimitação do Espaço
+        Analisar o tamanho médio dos veículos dos clientes.
+        Numerar e delimitar cada vaga, garantindo um layout organizado.
+
+        3.1.2 Sistema de Presença (Sensores e Luzes nas Vagas)
+        Sensores instalados em cada vaga para identificar sua ocupação.
+        Indicação visual com cores:
+        Verde: Vaga disponível.
+        Vermelho: Vaga ocupada.
+        Amarelo: Vaga reservada por um cliente assinante.
+        Integração com o sistema para exibição em tempo real no aplicativo e na interface de funcionários.
+
+    3.2 Controle de Entrada e Saída
+        3.2.1 Implementação de Catracas
+        Catracas para controle de acesso, permitindo entrada apenas mediante ticket ou adesivo QR Code/NFC.
+        Registro em tempo real da quantidade de clientes dentro do estacionamento.
+
+        3.2.2 Câmeras para Captura de Placas
+        Instalação de câmeras nas entradas e saídas para capturar placas automaticamente.
+        Integração com o sistema de controle de entrada para identificação de veículos inadimplentes.
+
+    3.3 Planos e Pagamentos
+        3.3.1 Plano de Assinatura para Clientes Frequentes
+        Cobrança mensal via cartão de crédito ou PIX.
+        Agendamento de vagas via aplicativo.
+        Uso de adesivo QR Code/NFC para entrada e saída automatizada.
+
+        3.3.2 Sistemas de Tickets para Não Assinantes
+        Emissão de ticket na entrada contendo horário e QR Code.
+        Pagamento realizado via totens de autoatendimento ou aplicativo.
+        Interfone para comunicação com a central em caso de problemas.
+
+        3.3.3 Totens de Pagamento
+        Pagamento via débito, crédito e PIX.
+        Localização estratégica para facilitar o fluxo dos clientes.
+        Opção de pagamento via aplicativo para maior conveniência.
+
+    3.4 Aplicativo do Estacionamento
+        3.4.1 Funcionalidades para Clientes
+        Visualização de vagas disponíveis em tempo real.
+        Agendamento de vagas para assinantes.
+        Pagamento de tickets via cartão ou PIX.
+        Solicitação de adesivo QR Code/NFC para assinantes.
+
+        3.4.2 Funcionalidades para Funcionários
+        Monitoramento em tempo real de todas as vagas.
+        Identificação de vagas ocupadas, disponiveis e reservadas.
+        Contagem de veículos presentes no estacionamento.
+        Controle e histórico de pagamentos.
+
+        3.4.3 Tecnologia do Aplicativo
+        O aplicativo será desenvolvido em Python, utilizando frameworks modernos para backend e frontend.
+        Suporte para dispositivos móveis e desktops.
+        Integração com banco de dados para gerenciamento de usuários, pagamentos e controle de vagas.
+
+4. Tecnologia Utilizada
+Back-end: Django, FastAPI ou Flask para desenvolvimento da API.
+Banco de Dados: SQL Server e SQLAlchemy para gerenciamento das informações.
+Sensores e Automação: MQTT com Paho MQTT para integração com sensores IoT.
+Câmeras e OCR: OpenCV para reconhecimento de placas e controle de entrada e saída.
+Aplicativo e Interface Web: Desenvolvido em Python com Streamlit ou Flask para painéis administrativos.
+Pagamentos Digitais: Integração com Stripe, PyPay ou PagSeguro API.
+Autenticação e Segurança: PyJWT para autenticação via tokens JWT.
+Gerenciamento de Builds e Contêineres: Docker e Jenkins.
+
+5. Conclusão
+Este sistema visa transformar a gestão do estacionamento, tornando-a mais eficiente, segura e moderna, proporcionando benefícios tanto para 
+os clientes quanto para os funcionários. A automação dos processos reduzirá filas, evitará fraudes e melhorará a experiência dos usuários.
