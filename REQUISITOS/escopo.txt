@@ -15,6 +15,7 @@ Oferecer uma experiência mais ágil e segura para clientes e funcionários.
 3. Escopo do Projeto
 
     3.1 Estrutura e Controle de Vagas
+
         3.1.1 Delimitação do Espaço
         Analisar o tamanho médio dos veículos dos clientes.
         Numerar e delimitar cada vaga, garantindo um layout organizado.
@@ -28,6 +29,7 @@ Oferecer uma experiência mais ágil e segura para clientes e funcionários.
         Integração com o sistema para exibição em tempo real no aplicativo e na interface de funcionários.
 
     3.2 Controle de Entrada e Saída
+
         3.2.1 Implementação de Catracas
         Catracas para controle de acesso, permitindo entrada apenas mediante ticket ou adesivo QR Code/NFC.
         Registro em tempo real da quantidade de clientes dentro do estacionamento.
@@ -37,6 +39,7 @@ Oferecer uma experiência mais ágil e segura para clientes e funcionários.
         Integração com o sistema de controle de entrada para identificação de veículos inadimplentes.
 
     3.3 Planos e Pagamentos
+
         3.3.1 Plano de Assinatura para Clientes Frequentes
         Cobrança mensal via cartão de crédito ou PIX.
         Agendamento de vagas via aplicativo.
@@ -53,6 +56,7 @@ Oferecer uma experiência mais ágil e segura para clientes e funcionários.
         Opção de pagamento via aplicativo para maior conveniência.
 
     3.4 Aplicativo do Estacionamento
+
         3.4.1 Funcionalidades para Clientes
         Visualização de vagas disponíveis em tempo real.
         Agendamento de vagas para assinantes.

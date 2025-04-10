@@ -1,0 +1,190 @@
+1. Sistemas de Gerenciamento e Controle
+
+Park Manager (Prosiga)
+Descrição:
+ Solução completa para gerenciamento operacional e financeiro de estacionamentos, com módulos de automação integrados aos equipamentos da Prosiga.
+
+    Prós:
+    Disponibiliza terminais móveis interligados para operações em tempo real.
+    Integração com diversos equipamentos de automação, facilitando a operação.
+
+    Contras:
+    Requer investimento inicial em hardware específico da Prosiga.
+    Pode ter curva de aprendizado maior para funcionários.
+
+SisEstac
+Descrição:
+ Software de gestão de estacionamentos de baixo custo, ideal para pequenos negócios, com controle de acesso, cadastro de clientes e backup em nuvem.
+    Prós:
+    Solução econômica para estacionamentos de pequeno porte.
+    Backup em nuvem para maior segurança das informações.
+
+    Contras:
+    Funcionalidades limitadas para operações de grande escala.
+    Interface mais simples, sem personalização avançada.
+
+Nepos
+Descrição:
+ Sistema robusto para gestão de estacionamentos de médio a grande porte, com foco em automação de processos e controle financeiro.
+    Prós:
+    Controle de acesso em tempo real e automação operacional.
+    Integração com sistemas de pagamento, incluindo PIX.
+
+    Contras:
+    Necessita de treinamento específico para configuração avançada.
+    Custo elevado para pequenas operações.
+
+ABCPark
+Descrição:
+ Solução abrangente para controle de entrada, saída e cobrança, com suporte a múltiplos métodos de pagamento e monitoramento em tempo real.
+    Prós:
+    Monitoramento contínuo e detalhado do fluxo de veículos.
+    Diversos métodos de pagamento, incluindo digitais.
+
+    Contras:
+    Requer suporte técnico contínuo para manutenção.
+    Implementação pode ser cara para estacionamentos menores.
+
+Parkeer
+Descrição:
+ Software de automação de estacionamentos, com gerenciamento avançado de clientes rotativos e mensalistas, além de relatórios personalizados.
+    Prós:
+    Controle detalhado de convênios e mensalistas.
+    Emissão de tickets digitais e relatórios analíticos.
+
+    Contras:
+    Pode ser complexo para pequenas operações.
+    Requer infraestrutura adequada para integração.
+
+2. Sistemas de Pagamento Automatizado
+
+cel_cash
+Descrição:
+ Plataforma de cobrança recorrente que automatiza pagamentos mensais, com suporte a múltiplos adquirentes como Cielo, Stone e Rede.
+    Prós:
+    Automatiza cobranças recorrentes, reduzindo erros manuais.
+    Integração com diversas operadoras de pagamento.
+
+    Contras:
+    Dependência de parceiros para processar transações.
+    Pode haver taxas adicionais por pagamento processado.
+
+Gringo
+Descrição:
+ Aplicativo especializado em pagamentos de débitos veiculares, oferecendo facilidade no pagamento de IPVA, multas e outros encargos.
+    Prós:
+    Interface intuitiva para pagamentos via app.
+    Integração com bancos e carteiras digitais.
+
+    Contras:
+    Foco limitado em débitos veiculares, não em estacionamentos.
+    Requer conexão constante com a internet.
+
+
+ParkPay
+Descrição:
+ Sistema de pagamento automatizado para estacionamentos, com suporte para cartões, PIX e integração com controle de acesso.
+    Prós:
+    Reduz filas com pagamento automatizado e rápido.
+    Integração fluida com outras soluções de gestão.
+
+    Contras:
+    Requer infraestrutura tecnológica específica.
+    Custo de implementação elevado em grandes operações.
+
+3. Sistemas de Controle de Acesso
+
+VJS Sistemas
+Descrição:
+ Solução especializada em controle de entrada e saída, com mais de 15 anos de experiência no fornecimento de cancelas automáticas e catracas eletrônicas.
+    Prós:
+    Personalização de acordo com as necessidades do cliente.
+    Equipamentos robustos e de fácil manutenção.
+
+    Contras:
+    Requer investimento em equipamentos específicos.
+    Implementação pode ser demorada para operações grandes.
+
+Barantech
+Descrição:
+ Oferece sistemas piezoelétricos avançados para controle de acesso, com tecnologia resistente a vandalismo e operação contínua.
+    Prós:
+    Alta durabilidade e resistência a danos físicos.
+    Baixa necessidade de manutenção recorrente.
+
+    Contras:
+    Custo elevado devido à tecnologia avançada.
+    Integração mais complexa com sistemas tradicionais.
+
+Dahua Smart Parking Management
+Descrição:
+ Sistema de controle automatizado com reconhecimento de placas (ANPR) e monitoramento por câmeras de alta precisão.
+    Prós:
+    Reconhecimento rápido e preciso de placas veiculares.
+    Monitoramento 24/7 com histórico detalhado de acessos.
+
+    Contras:
+    Necessário investimento em câmeras e infraestrutura.
+    Pode exigir suporte especializado para ajustes finos.
+
+4. Sistemas de Monitoramento e Análise
+
+SigaPark
+Descrição:
+ Empresa nacional com tecnologia própria de automação de estacionamentos, com soluções para monitoramento em tempo real e análise operacional.
+    Prós:
+    Personalização conforme a necessidade do cliente.
+    Experiência consolidada com mais de 600 operações no Brasil.
+
+    Contras:
+    Custo elevado para pequenos negócios.
+    Requer suporte contínuo para atualizações.
+
+SKIDATA Monitoring & Control
+Descrição:
+ Sistema de monitoramento avançado que permite análise de fluxo de veículos e eficiência operacional em tempo real.
+    Prós:
+    Controle detalhado de entradas, saídas e ocupação.  
+    Integração com múltiplos sistemas de pagamento e acesso.
+
+    Contras:
+    Alto custo de implementação e manutenção contínua.
+    Complexidade para integrar com sistemas preexistentes.
+
+WPS Brasil
+Descrição:
+ Especializada em soluções para estacionamento com foco em controle de acesso, segurança e análise de dados em tempo real.
+    Prós:
+    Integração com soluções de pagamento e segurança.
+    Análises detalhadas para tomada de decisões estratégicas.
+
+    Contras:
+    Implementação pode exigir adaptação na infraestrutura existente.
+    Necessário suporte técnico especializado para customizações.
+
+
+5. Sistemas de Aplicativos para Clientes
+
+Easy Park
+Descrição:
+ Aplicativo móvel que permite aos clientes pagar pelo estacionamento diretamente pelo celular, facilitando a gestão remota.
+    Prós:
+    Facilita o pagamento digital, reduzindo filas.
+    Monitoramento remoto e controle de vagas.
+
+    Contras:
+    Depende da adesão dos usuários ao aplicativo.
+    Pode apresentar instabilidade em áreas com baixa conectividade.
+
+ 6. Sistemas Integrados de Gestão
+
+T2 Systems
+Descrição:
+ Oferece soluções completas de gestão para estacionamentos, integrando controle de acesso, pagamento e análise de dados em uma única plataforma.
+    Prós:
+    Plataforma unificada para todas as operações do estacionamento.
+    Ferramentas avançadas de análise de dados e relatórios.
+
+    Contras:
+    Implementação demorada devido à integração total.
+    Requer infraestrutura robusta para operar em larga escala.
